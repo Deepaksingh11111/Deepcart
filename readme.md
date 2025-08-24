@@ -89,6 +89,7 @@ http://localhost:5174
 📜 License
 
 This project is licensed under the MIT License.
+free for all Students and my friends .
 
 
 ---
