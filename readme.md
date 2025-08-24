@@ -38,16 +38,27 @@ It allows users to browse collections, view product details, add items to cart, 
 ---
 
 ## 📷 Screenshots
-(Add your screenshots inside a screenshots/ folder)  
 
 ### Home Page  
-![Home Page](./screenshots/home.png)
+![Home Page](./screenshots/home.jpg)
 
 ### Collections Page  
-![Collections](./screenshots/collections.png)
+![Collections](./screenshots/collections.jpg)
 
 ### Cart Page  
-![Cart](./screenshots/cart.png)
+![Cart](./screenshots/cart.jpg)
+
+### about Page  
+![Cart](./screenshots/about.jpg)
+
+### Collections Page  
+![Cart](./screenshots/collections.jpg)
+
+### payment Page  
+![Cart](./screenshots/payment.jpg)
+
+### admin Page  
+![Cart](./screenshots/admin.jpg)
 
 ---
 
