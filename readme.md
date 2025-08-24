@@ -64,8 +64,7 @@ npm install
 
 3. Run the development server:
 
-npm start
-
+npm run dev 
 
 4. Open in browser:
 
