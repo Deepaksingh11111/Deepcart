@@ -33,7 +33,8 @@ It allows users to browse collections, view product details, add items to cart, 
 *Other Tools:*
 - Git & GitHub (Version Control)  
 - Postman (API Testing)  
-- Cloudinary / Firebase (Image Hosting)  
+- Cloudinary  (Image Hosting)
+-  Firebase ( use for login/signup with Google)
 - Razorpay / Stripe (Payment Gateway)  
 
 ---
