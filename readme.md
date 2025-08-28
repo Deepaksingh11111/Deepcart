@@ -27,7 +27,8 @@ It allows users to browse collections, view product details, add items to cart, 
 - Node.js + Express.js  
 
 *Database:*
-- MongoDB (NoSQL) or MySQL (SQL)  
+- MongoDB (NoSQL)
+👉 “I use MongoDB Compass to connect the database in this code, but you can also use MongoDB Atlas for better performance. Both options are available, so you can choose whichever you prefer.”
 
 *Other Tools:*
 - Git & GitHub (Version Control)  
