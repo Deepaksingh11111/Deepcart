@@ -13,7 +13,7 @@ It allows users to browse collections, view product details, add items to cart, 
 - 💳 Payment Gateway Integration (Stripe / Razorpay)  
 - 📱 Responsive Design (Mobile + Desktop)  
 - 🎨 Smooth animations with modern UI  
-
+👉 “Deepcart includes an AI assistant to help customers.” 
 ---
 
 ## 🛠 Tech Stack
